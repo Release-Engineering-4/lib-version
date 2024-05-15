@@ -3,7 +3,7 @@ name = "lib-version"
 version = "0.0.1"
 authors = [
   { name="Lucian", email="author@example.com" },
-  { name="Ming Da", email="m.d.yang@student.tudelft.nl}
+  { name="Ming_Da", email="m.d.yang@student.tudelft.nl}
 ]
 description = "A version aware package"
 readme = "README.md"
