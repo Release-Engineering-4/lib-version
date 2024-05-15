@@ -14,5 +14,9 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 
+
 [project.urls]
 Homepage = "https://github.com/Release-Engineering-4/lib-version"
+
+[project.files]
+version = {path = "version.txt"}
