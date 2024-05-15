@@ -1,2 +1,4 @@
 env/
 venv/
+build/
+lib_version.egg-info/
