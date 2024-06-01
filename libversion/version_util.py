@@ -1,7 +1,5 @@
-import pkg_resources
 import os
 import subprocess
-
 
 class VersionUtil:
     @staticmethod
